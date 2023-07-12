@@ -21,11 +21,7 @@ body{
 }
 .container{
     width: 95%;
-<<<<<<< HEAD
     margin: 0 auto;
-=======
-     margin: 0 auto;
->>>>>>> 00b054dbf105de6f78f9e1ac0333024ab66f7480
 }
 main{
    position: relative;
